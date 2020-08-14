@@ -33,4 +33,4 @@ ou
 yarn ios
 ```
 
-Obrigado por chegar até aqui! Agradecimentos especiais para esse projeto para [Ignite CLI](https://github.com/infinitered/ignite "Ignite CLI"), [React Native](https://github.com/facebook/react-native "React Native") e para o Vinicuis da Sonha/CTIS pelo desafio 🚀.
+Obrigado por chegar até aqui! Agradecimentos especiais para esse projeto para [Ignite CLI](https://github.com/infinitered/ignite "Ignite CLI"), [React Native](https://github.com/facebook/react-native "React Native") e para o Vinicuis da Sonda/CTIS pelo desafio 🚀.
